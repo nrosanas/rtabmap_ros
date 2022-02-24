@@ -1,0 +1,15 @@
+.vscode/browse.vc.db
+.vscode/browse.vc.db-shm
+.vscode/browse.vc.db-wal
+.vscode/c_cpp_properties.json
+.vscode/settings.json
+launch/.vscode/browse.vc.db
+launch/.vscode/c_cpp_properties.json
+launch/.vscode/settings.json
+launch/tests/escalat.png
+launch/tests/.vscode/browse.vc.db
+launch/tests/.vscode/c_cpp_properties.json
+launch/tests/.vscode/settings.json
+src/.vscode/browse.vc.db
+src/.vscode/c_cpp_properties.json
+src/.vscode/settings.json
