@@ -20,6 +20,12 @@
 standalone_tags:
   [
      {id: 13, size: 0.158, name: 'big_tag_013'},
+     {id: 3, size: 0.078, name: 'big_tag_003'},
+     {id: 4, size: 0.078, name: 'big_tag_004'},
+     {id: 5, size: 0.078, name: 'big_tag_005'},
+     {id: 6, size: 0.078, name: 'big_tag_006'},
+     {id: 7, size: 0.078, name: 'big_tag_007'},
+     {id: 8, size: 0.078, name: 'big_tag_008'},
   ]
 # ## Tag bundle definitions
 # ### Remarks
